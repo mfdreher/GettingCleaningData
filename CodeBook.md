@@ -23,7 +23,8 @@ Test Data: 2,947 observations in each TXT file
 - Y_test.txt': Activity Labels (defined below) with 1 variable  
 - subject_test.txt: 30 subjects in the study, each assigned a number from 1 to 30; 1 variable in the dataset
 
-Features.txt: Lists the names of each variable used in the "X" txt files
+features.txt: Lists the names of each variable used in the "X" txt files
+
 activity_labels.txt: Lists the values of Activities, i.e 1 = WALKING, etc 
 
 For more information about the datasets please download the following zip file:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
