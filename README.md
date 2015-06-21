@@ -11,9 +11,8 @@ Created by Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luc
 The complete dataset can be downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 In the zip file there is a README file and Codebook which provided detailed information on the collection and labeling of the datasets. A very brief overview is as follows:
-
-*Training data: 3 data sets with observations (X Train, with 561 variables), Activities the subjects were performing (Y Train), and the subjects (Subject Train). Each data set had 7,352 records
-** Test data: identical to Training data except that it contained 2,947 records
+Training data: 3 data sets with observations (X Train, with 561 variables), Activities the subjects were performing (Y Train), and the subjects (Subject Train). Each data set had 7,352 records
+Test data: identical to Training data except that it contained 2,947 records
 
 run_analysis.r Script
 ---------------------
