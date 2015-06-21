@@ -14,14 +14,14 @@ DATASETS
 --------
 
 Training Data: 7,352 observations in each TXT file
-X_train.txt: Training set with 561 variables 
-Y_train.txt': Activity Labels (defined below) with 1 variable  
-subject_train.txt: 30 subjects in the study, each assigned a number from 1 to 30; 1 variable in the dataset
+- X_train.txt: Training set with 561 variables 
+- Y_train.txt': Activity Labels (defined below) with 1 variable  
+- subject_train.txt: 30 subjects in the study, each assigned a number from 1 to 30; 1 variable in the dataset
 
 Test Data: 2,947 observations in each TXT file
-X_test.txt: Training set with 561 variables
-Y_test.txt': Activity Labels (defined below) with 1 variable  
-subject_test.txt: 30 subjects in the study, each assigned a number from 1 to 30; 1 variable in the dataset
+- X_test.txt: Training set with 561 variables
+- Y_test.txt': Activity Labels (defined below) with 1 variable  
+- subject_test.txt: 30 subjects in the study, each assigned a number from 1 to 30; 1 variable in the dataset
 
 Features.txt: Lists the names of each variable used in the "X" txt files
 activity_labels.txt: Lists the values of Activities, i.e 1 = WALKING, etc 
